@@ -17,4 +17,4 @@ else
 end
 
 luciname    = "BI4PCS"
-luciversion = "MMDVM 2023.05.20"
+luciversion = "MMDVM 2023.06.05"
