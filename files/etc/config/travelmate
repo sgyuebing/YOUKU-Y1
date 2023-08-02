@@ -10,3 +10,10 @@ config travelmate 'global'
 	option trm_iface 'trm_wwan'
 	option trm_randomize '0'
 
+config uplink
+	option enabled '1'
+	option device 'radio0'
+	option ssid 'Bi4PCS'
+	option con_start_expiry '0'
+	option con_end_expiry '0'
+
